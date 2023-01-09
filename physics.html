@@ -1,0 +1,80 @@
+<body>
+    <section></section>
+    <section class="blogsContent" id="blogs">
+        <div class="container" ng-repeat="data in content">
+            <div class="jumbotron" ng-repeat="data in data.Physics">
+                <div class="alainaspect">
+                    <h2 class="testh1 heading">{{data.title}}</h2>
+                    <p>{{data.content}}</p>
+                    <h2 class="h2Physics">Alain Aspect</h2>
+                    <div class="row min-vh-50 align-items-center ">
+
+                        <div class="col-md-4">
+                            <img src="images/aspect-2_3-464x696.webp" class="w-50" alt="">
+                        </div>
+
+                        <div class="col-md-8 text-center content text-md-start pl-md-5">
+                            <span style="font-size: 20px;"><b>{{data.summary.placeofbirth}}</b></span>
+                            <p style="font-size: 20px;">{{data.summary.content}}</p>
+                        </div>
+
+                    </div>
+                    <br>
+                    <h2>Work</h2>
+                    <p>{{data.work}}</p>
+                    <div class="row min-vh-50 align-items-center ">
+                    <h2>Video during the award ceremony</h2>
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/a9FsKqvrJNY?clip=UgkxuWeTZugwwCRqlWnfZFT5oSdvHCVxkdQe&amp;clipt=EMetjQEYp4KRAQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                    </div>
+                </div>
+                <div class="john-clauser">
+                
+                <h2 class="h2Physics">John Clauser</h2>
+                <div class="row min-vh-50 align-items-center ">
+
+                    <div class="col-md-4">
+                        <img src="images/clauser-2_3-464x696.webp" class="w-50" alt="">
+                    </div>
+
+                    <div class="col-md-8 text-center content text-md-start pl-md-5">
+                        <span style="font-size: 20px;"><b>{{data.summary2.placeofbirth}}</b></span>
+                        <p style="font-size: 20px;">{{data.summary2.content}}</p>
+                    </div>
+
+                </div>
+                <br>
+                <h2>Work</h2>
+                <p>{{data.work}}</p>
+                <div class="row min-vh-50 align-items-center ">
+                    <h2>Video during the award ceremony</h2>
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/a9FsKqvrJNY?clip=UgkxKXIOV-W_4JMfPeaLbrPQ_6JYtrDVg-4d&amp;clipt=EJv0vwIY-8jDAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                    </div>
+                </div>
+                <div id="antonzeilinger">
+                
+                    <h2 class="h2Physics">Anton Zeilinger</h2>
+                    <div class="row min-vh-50 align-items-center ">
+    
+                        <div class="col-md-4">
+                            <img src="images/zeilinger-2_3-464x696.webp" class="w-50" alt="">
+                        </div>
+    
+                        <div class="col-md-8 text-center content text-md-start pl-md-5">
+                            <span style="font-size: 20px;"><b>Born: {{data.summary3.placeofbirth}}</b></span>
+                            <p style="font-size: 20px;">{{data.summary3.content}}</p>
+                        </div>
+    
+                    </div>
+                    <br>
+                    <h2>Work</h2>
+                    <p>{{data.work}}</p>
+                    <div class="row min-vh-50 align-items-center ">
+                        <h2>Video during the award ceremony</h2>
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/a9FsKqvrJNY?clip=UgkxVrEqO58BW2QNfOSo2fDgFl9KjqmTuXt-&amp;clipt=ELLZvAEYkq7AAQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                        </div>
+                    </div>
+                    </div>
+            </div>
+        </div>
+    </section>
+</body>

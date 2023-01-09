@@ -1,0 +1,30 @@
+<body ng-controller="pageNomination">
+<section></section>
+<section class="blogsNomination" id="blogs">
+
+<h1 class="heading"> NOMINATION AND SELECTION OF<span> NOBEL PRIZE LAUREATES</span></h1>
+
+    <div class="container" ng-repeat="data in content">
+
+        <div class="d-flex justify-content-center flex-wrap">
+
+            <div class="box p-3 m-2" ng-repeat="data in data.nomination_prize | filter:search">
+                <div class="image">
+                    <img ng-src="images/{{data.images}}" class="w-100 h-100"  alt="">
+                </div>
+                <div class="content p-2">
+                    <h3>{{data.titleh1}}</h3>
+                    <span class="button"><a href="#!/contentNomina/{{data.id}}" class="link-btn">read more</a></span>
+                    <div class="icons">
+                        <a href="#"><i class="fas fa-user"></i>by admin</a>
+                        <a href="#"><i class="fas fa-calendar"></i>19 dec, 2022</a>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+</body>

@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>West site Nobel Prize</title>
+    <link rel="stylesheet" href="css/styless.css">
+    <!-- bootstrap cdn link  -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- font awesome cdn link  -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+
+    <!-- JQuery -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
+    <script type="text/javascript" src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+
+    <!-- custom css file link  -->
+    <link rel="stylesheet" href="css/style.css">
+    
+    <!-- custom script file angular  -->
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.8.2/angular.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.8.2/angular.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/angular-route/1.8.2/angular-route.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.8.2/angular-animate.js"></script>
+</head>
+<body ng-app="nobelprize" ng-controller="CtrNobelprize">
+    
+<!-- header section starts -->
+
+<header class="fixed-top py-3">
+
+    <div class="container d-flex align-items-center justify-content-between">
+
+        <a href="#" class="logo">N<span><img src="images/logo-nobel.png" alt="logo-nobel"></span>bel Prizes</a>
+
+        <div id="menu-bar" class="fas fa-bars d-inline-block d-md-none"></div>
+
+        <nav class="nav">
+            <span><a href="#/!" class="active">Homepage</a></span>
+            <span class="menuinvi"><a href="#!laureates">Nobel Prizes & Laureates</a>
+                <ul class="menu-laureates">
+                    <li><a href="#!physics">physics prize</a></li>
+                    <li><a href="#!chemistry">chemistry prize</a></li>
+                    <li><a href="#!medicine">medicine prize</a></li>
+                    <li><a href="#!literature">literature prize</a></li>
+                    <li><a href="#!peace">peace prize</a></li>
+                    <li><a href="#!economi">economic sciences</a></li>
+                </ul>
+            </span>
+            <span><a href="#!contentNomina">Nomination</a></span>
+            <span><a href="#!alfrednobel">Alfred Nobel</a></span>
+            <span><a href="#!newsevent">News & Events</a></span>
+            <span><a href="#!about">About Us</a></span>
+            <span><a href="#!video">Video</a></span>
+        </nav>
+
+    </div>
+
+</header>
+
+<!-- header section end-->
+<!--<div ng-view></div>-->
+<!-- home section starts  -->
+
+<!--section home-->
+<section>
+ <div ng-view></div>
+</section>
+<!-- footer section starts  -->
+
+<section class="footer">
+
+    <div class="container">
+
+        <div class="d-flex flex-wrap justify-content-center text-center text-sm-start">
+
+            <div class="box p-3 m-2">
+                <h3>Nomination</h3>
+                <a href="#!physics">physics</a>
+                <a href="#!chemistry">chemistry</a>
+                <a href="#!medicine">medicine</a>
+                <a href="#!literature">literature</a>
+                <a href="#!peace">peace prize</a>
+                <a href="#!economi">economic sciences</a>
+            </div>
+
+            <div class="box p-3 m-2">
+                <h3>quick links</h3>
+                <a href="#!">Homepage</a>
+                <a href="#!laureates">Nobel Prizes & Laureates</a>
+                <a href="#!nomination">Nomination</a>
+                <a href="#!alfrednobel">Alfred Nobel</a>
+                <a href="#!newsevent">News & Events</a>
+                <a href="#!video">Video</a>
+                <a href="#!fqa">FQA</a>
+            </div>
+
+            <div class="box p-3 m-2">
+                <h3>follow us</h3>
+                <a>facebook</a>
+                <a>instagram</a>
+                <a>linkedin</a>
+                <a>twitter</a>
+            </div>-
+
+            <div class="box p-3 m-2">
+                <h3>contact info</h3>
+                <a>+093-756-7290</a>
+                <a>+093-226-5230</a>
+                <a>team2fpt@gmail.com</a>
+            </div>
+
+        </div>
+
+
+    </div>
+
+</section>
+
+<!-- footer section ends -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- js file link  -->
+<script src="js/app.js"></script>
+<script src="js/script.js"></script>
+</body>
+</html>
