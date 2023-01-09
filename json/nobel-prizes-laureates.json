@@ -1,0 +1,228 @@
+[
+    {
+        "Physics":[
+                    {
+                        "title":"The Nobel Prize in Physics 2022",
+                        "images":[
+                                    {
+                                        "img":"aspect-2_3-464x696.webp"
+                                    },
+                                    {
+                                        "img":"aspect-2_3-464x696.webp"
+                                    },
+                                    {
+                                        "img":"aspect-2_3-464x696.webp"
+                                    }
+                                ],
+                        "content":"The Nobel Prize in Physics 2022 was awarded jointly to Alain Aspect, John F. Clauser and Anton Zeilinger \"for experiments with entangled photons, establishing the violation of Bell inequalities and pioneering quantum information science\"",
+                        "alainAspect":"Alain Aspect",
+                        "summary":{
+                                    "name":"Alain Aspect",
+                                    "placeofbirth":"Born: 15 June 1947, Agen, France",
+                                    "content":"Affiliation at the time of the award: Institut d’Optique Graduate School – Université Paris-Saclay, Paris, France; École Polytechnique, Palaiseau, France\n. Prize motivation: “for experiments with entangled photons, establishing the violation of Bell inequalities and pioneering quantum information science.”"
+                                },
+                                "title-1":"Work",
+                        "work":"One of the most remarkable traits of quantum mechanics is that it allows two or more particles to exist in what is called an entangled state. What happens to one of the particles in an entangled pair determines what happens to the other particle, even if they are far apart. In 1981–1982, Alain Aspect conducted groundbreaking experiments using entangled light particles, photons. These and other experiments confirm that quantum mechanics is correct and pave the way for quantum computers, quantum networks and quantum encrypted communication.",
+                        "john-clauser":"John Clauser",
+                        "summary2":{
+                                    "name":"John F. Clauser",
+                                    "placeofbirth":"Born: 1 December 1942, Pasadena, CA, USA",
+                                    "content":"Affiliation at the time of the award: J.F. Clauser & Assoc., Walnut Creek, CA, USA.\n Prize motivation: “for experiments with entangled photons, establishing the violation of Bell inequalities and pioneering quantum information science”"
+                                },
+                                "title-2":"Work",
+                        "work-2":"One of the most remarkable traits of quantum mechanics is that it allows two or more particles to exist in what is called an entangled state. What happens to one of the particles in an entangled pair determines what happens to the other particle, even if they are far apart. In 1972, John Clauser conducted groundbreaking experiments using entangled light particles, photons. This and other experiments confirm that quantum mechanics is correct and pave the way for quantum computers, quantum networks and quantum encrypted communication.",
+                        "anton-zeilinger":"Anton Zeilinger",
+                        "summary3":{
+                                    "name":"Anton Zeilinger",
+                                    "placeofbirth":"20 May 1945, Ried im Innkreis, Austria",
+                                    "content":"Affiliation at the time of the award: University of Vienna, Vienna, Austria; Institute for Quantum Optics and Quantum Information, Austrian Academy of Sciences, Vienna, Austria. \nPrize motivation: “for experiments with entangled photons, establishing the violation of Bell inequalities and pioneering quantum information science”"
+                                },
+                                "title3":"Work",
+                        "work3":"One of the most remarkable traits of quantum mechanics is that it allows two or more particles to exist in what is called an entangled state. What happens to one of the particles in an entangled pair determines what happens to the other particle, even if they are far apart. In 1997–1998, Anton Zeilinger conducted groundbreaking experiments using entangled light particles, photons. These and other experiments confirm that quantum mechanics is correct and pave the way for quantum computers, quantum networks and quantum encrypted communication."       
+                    }
+                  ],
+        "chemistry":[
+                    {
+                        "title":"The Nobel Prize in Chemistry 2022",
+                        "images":[
+                                    {
+                                        "img":"bertozzi-2_3-464x696.webp"
+                                    },
+                                    {
+                                        "img":"meldal-2_3-464x696.jpg"
+                                    },
+                                    {
+                                        "img":"sharpless-2_3-464x696.webp"
+                                    }
+                                ],
+                        "content":"The Nobel Prize in Chemistry 2022 was awarded jointly to Carolyn R. Bertozzi, Morten Meldal and K. Barry Sharpless \"for the development of click chemistry and bioorthogonal chemistry \"",
+
+                        "carolyn-bertozzi":"Carolyn Bertozzi",
+                        "summary":{
+                                    "name":"Carolyn R. Bertozzi",
+                                    "placeofbirth":"10 October 1966, Boston, MA, USA",
+                                    "content":"Affiliation at the time of the award: Stanford University, Stanford, CA, USA; Howard Hughes Medical Institute, USA.\n Prize motivation: “for the development of click chemistry and bioorthogonal chemistry”"
+                                },
+                                "title-1":"Work",
+                        "work":"Chemists strive to build increasingly complicated molecules. For a long time, this has been very time consuming and expensive. Click chemistry means that molecular building blocks snap together quickly and efficiently. Around 2000, Carolyn Bertozzi started utilising click chemistry in living organisms. She developed bioorthogonal reactions which take place inside living organisms without disrupting the normal chemistry of the cell. These reactions are now used to explore cells, track biological processes, and improve the targeting of cancer pharmaceuticals.",
+
+                        "morten-meldal":"Morten Meldal",
+                        "summary2":{
+                                    "name":"Morten Meldal",
+                                    "placeofbirth":"1954, Copenhagen, Denmark",
+                                    "content":"Affiliation at the time of the award: University of Copenhagen, Copenhagen, Denmark.\n Prize motivation: “for the development of click chemistry and bioorthogonal chemistry”"
+                                },
+                                "title-2":"Work",
+                        "work-3":"Chemists strive to build increasingly complicated molecules. For a long time, this has been very time consuming and expensive. Click chemistry means that molecular building blocks snap together quickly and efficiently. In 2002, Morten Meldal and Barry Sharpless, independently of each other, developed an elegant and efficient chemical reaction: the copper catalysed azide-alkyne cycloaddition. This is now in widespread use and is utilised in the development of pharmaceuticals, for mapping DNA and creating new materials.",
+
+                        "k-barry-sharpless":"K. Barry Sharpless",
+                        "summary3":{
+                                    "name":"K. Barry Sharpless",
+                                    "placeofbirth":"28 April 1941, Philadelphia, PA, USA",
+                                    "content":"Affiliation at the time of the award: Scripps Research, La Jolla, CA, USA. \nPrize motivation: “for the development of click chemistry and bioorthogonal chemistry”"
+                                },
+                                "title-3":"Work",
+                        "work-2":"Chemists strive to build increasingly complicated molecules. For a long time, this has been very time consuming and expensive. Barry Sharpless coined the concept of click chemistry, where molecular building blocks snap together quickly and efficiently. In 2002, Sharpless and Morten Meldal, independently of each other, developed an elegant and efficient chemical reaction: the copper catalysed azide-alkyne cycloaddition. This is now in widespread use and is utilised in the development of pharmaceuticals, for mapping DNA and creating new materials."              
+                    }
+                  ],
+        "medicine":[
+                    {
+                        "title":"The Nobel Prize in Physiology or Medicine 2022",
+                        "images":[
+                                    {
+                                        "img":"paabo-2_3-464x696.webp"
+                                    }
+                                   
+                                ],
+                        "content":"The Nobel Prize in Physiology or Medicine 2022 was awarded to Svante Pääbo \"for his discoveries concerning the genomes of extinct hominins and human evolution\"",
+
+                        "svante-paabo":"Svante Pääbo",
+                        "summary":{
+                                    "name":"Svante Pääbo",
+                                    "placeofbirth":"20 April 1955, Stockholm, Sweden",
+                                    "content":"Affiliation at the time of the award: Max Planck Institute for Evolutionary Anthropology, Leipzig, Germany; Okinawa Institute of Science and Technology, Okinawa, Japan.\n Prize motivation: “for his discoveries concerning the genomes of extinct hominins and human evolution”"
+                                },
+                                "title-2":"Work",
+                        "work":"Where do we humans come from, and how are we related to extinct hominins? In 2010, Svante Pääbo succeeded in sequencing the genome of the Neanderthal. He also discovered a previously unknown hominin, Denisova. He also found that gene transfer had occurred from these now extinct hominins to Homo sapiens following the migration out of Africa around 70,000 years ago. This ancient flow of genes to present-day humans has physiological relevance today, for example affecting how our immune system reacts to infections."              
+                    }
+                  ],
+        "literature":[
+                    {
+                        "title":"The Nobel Prize in Literature 2022",
+                        "images":[
+                                    {
+                                        "img":"bertozzi-2_3-464x696.webp"
+                                    },
+                                    {
+                                        "img":"meldal-2_3-464x696.jpg"
+                                    },
+                                    {
+                                        "img":"sharpless-2_3-464x696.webp"
+                                    }
+                                ],
+                        "content":"The Nobel Prize in Literature 2022 was awarded to Annie Ernaux \"for the courage and clinical acuity with which she uncovers the roots, estrangements and collective restraints of personal memory\"",
+
+                        "annie-ernaux":"Annie Ernaux",
+                        "summary":{
+                                    "name":"Annie Ernaux",
+                                    "placeofbirth":"1 September 1940, Lillebonne, France",
+                                    "content":"Residence at the time of the award: France. Prize motivation: “for the courage and clinical acuity with which she uncovers the roots, estrangements and collective restraints of personal memory”"
+                                },
+                        "title-2":"Work",
+                        "work":"In her writing, Annie Ernaux consistently and from different angles, examines a life marked by strong disparities regarding gender, language and class. Her path to authorship was long and arduous. Among her novels are ‘A Man's Place’, ‘A Woman's Story’ and ‘Years’. Ernaux's work is uncompromising and written in plain language, scraped clean. And when she with great courage and clinical acuity reveals the agony of the experience of class, describing shame, humiliation, jealousy or inability to see who you are, she has achieved something admirable and enduring."            
+                    }
+                  ],
+        "peaceprize":[
+                    {
+                        "title":"The Nobel Peace Prize 2022",
+                        "images":[
+                                    {
+                                        "img":"bialiatski-2_3-464x696.jpg"
+                                    },
+                                    {
+                                        "img":"memorial-2_3-464x696.jpg"
+                                    },
+                                    {
+                                        "img":"center-2_3-464x696.jpg"
+                                    }
+                                ],
+                        "content":"The Nobel Prize in Literature 2022 was awarded to Annie Ernaux \"for the courage and clinical acuity with which she uncovers the roots, estrangements and collective restraints of personal memory\"",
+
+                        "ales-bialiatski":"Ales Bialiatski",
+                        "summary":{
+                                    "name":"Ales Bialiatski",
+                                    "placeofbirth":"25 September 1962, Vyartsilya, Karelia, Russia",
+                                    "content":"Residence at the time of the award: Belarus.\n Prize motivation: “The Peace Prize laureates represent civil society in their home countries. They have for many years promoted the right to criticise power and protect the fundamental rights of citizens. They have made an outstanding effort to document war crimes, human right abuses and the abuse of power. Together they demonstrate the significance of civil society for peace and democracy”"
+                                },
+                        "title-1":"The fight for human rights and democracy",
+                        "work":"In her writing, Annie Ernaux consistently and from different angles, examines a life marked by strong disparities regarding gender, language and class. Her path to authorship was long and arduous. Among her novels are ‘A Man's Place’, ‘A Woman's Story’ and ‘Years’. Ernaux's work is uncompromising and written in plain language, scraped clean. And when she with great courage and clinical acuity reveals the agony of the experience of class, describing shame, humiliation, jealousy or inability to see who you are, she has achieved something admirable and enduring.",
+
+                        "memorial":"Memorial",
+                        "summary2":{
+                                    "name":"Memorial",
+                                    "placeofbirth":"Founded: 1987",
+                                    "content":"Prize motivation: “The Peace Prize laureates represent civil society in their home countries. They have for many years promoted the right to criticise power and protect the fundamental rights of citizens. They have made an outstanding effort to document war crimes, human right abuses and the abuse of power. Together they demonstrate the significance of civil society for peace and democracy”"
+                                },
+                        "title-2":"The fight for human rights and democracy",
+                        "work1":"Memorial was founded in the former Soviet Union in 1987. Its initiators included the 1975 Nobel Peace Prize laureate Andrei Sakharov and human rights defender Svetlana Gannushkina. The organisation documented the victims of the crimes committed during the Stalinist era.",
+                        "work12":"After the dissolution of the Soviet Union in 1991, the organisation continued this work while also focusing on human rights violations in Russia. During the Chechen wars (1994-1996 and 1999-2009), Memorial gathered information on abuses and war crimes committed against the civilian population by Russian and pro-Russian forces. The head of Memorial’s branch in Chechnya, Natalia Estemirova, was murdered because of her role in this work.",
+                        "work13":"In 2016, the authorities declared Memorial to be a foreign agent, and in 2021 the Russian Supreme Court ruled that Memorial was to be liquidated because it had defended the rights of persons who allegedly had ties to terrorist organisations. After Russia’s invasion of Ukraine in March 2022, the authorities declared Memorial to be illegal and took over the offices of the forcibly dissolved organisation.",
+
+                        "civil-liberties":"Center for Civil Liberties",
+                        "summary3":{
+                                    "name":"Center for Civil Liberties",
+                                    "placeofbirth":"Founded: 2007",
+                                    "content":"Prize motivation: “The Peace Prize laureates represent civil society in their home countries. They have for many years promoted the right to criticise power and protect the fundamental rights of citizens. They have made an outstanding effort to document war crimes, human right abuses and the abuse of power. Together they demonstrate the significance of civil society for peace and democracy”"
+                                },
+                        "title-3":"The fight for human rights and democracy",
+                        "work2":"In 2007, democracy and human rights activists founded the Center for Civil Liberties (CCL) in the capital of Ukraine, Kyiv. In its early years, the organisation put pressure on the authorities to ensure that Ukraine developed into a full-fledged democracy and a state governed by the rule of law. A key objective was Ukraine’s accession to the International Criminal Court in the Hague.",
+                        "work22":"When Russia annexed the Crimean peninsula from Ukraine in 2014 and supported the breakaway republics Donestsk and Luhansk, the center began to document cases of unlawful imprisonment and other abuses against the civilian population in these areas.",
+                        "work23":"After Russia’s attack on Ukraine in February 2022, the CCL concentrated on documenting war crimes against the civilian population perpetrated by Russian soldiers in the occupied areas. This work was carried out in cooperation with bodies such as the International Criminal Court. The organisation also engaged in important efforts to document the forced relocation of civilians from occupied areas of Ukraine to Russia."          
+                    }
+                  ],
+        "economic":[
+                    {
+                        "title":"The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel 2022",
+                        "images":[
+                                    {
+                                        "img":"bernanke-2_3-464x696.webp"
+                                    },
+                                    {
+                                        "img":"diamond-2_3-464x696.webp"
+                                    },
+                                    {
+                                        "img":"dybvig-2_3-464x696.jpg"
+                                    }
+                                ],
+                        "content":"The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel 2022 was awarded jointly to Ben S. Bernanke, Douglas W. Diamond and Philip H. Dybvig \"for research on banks and financial crises\"",
+
+                        "ben-bernanke":"Ben Bernanke",
+                        "summary":{
+                                    "name":"Ben S. Bernanke",
+                                    "placeofbirth":"Born: 13 December 1953, Augusta, GA, USA",
+                                    "content":"Affiliation at the time of the award: University of Chicago, Chicago, IL, USA.\n Prize motivation: “for research on banks and financial crises”"
+                                },
+                        "title-1":"Work",
+                        "work":"What is the role of banks in the economy and society? What happens if they collapse?The foundations of modern banking research were laid by Ben Bernanke, Douglas Diamond and Philip Dybvig in the early 1980s. Through statistical analysis and historical source research, Bernanke demonstrated how failing banks played a decisive role in the global depression of the 1930s. Bernanke’s research shows that bank crises can potentially have catastrophic consequences. This insight illustrates the importance of well-functioning bank regulation.",
+
+                        "douglas-diamond":"Douglas Diamond",
+                        "summary2":{
+                                    "name":"Douglas Diamond",
+                                    "placeofbirth":"Born: 25 October 1953, Chicago, IL, USA",
+                                    "content":"Prize motivation: “The Peace Prize laureates represent civil society in their home countries. They have for many years promoted the right to criticise power and protect the fundamental rights of citizens. They have made an outstanding effort to document war crimes, human right abuses and the abuse of power. Together they demonstrate the significance of civil society for peace and democracy”"
+                                },
+                        "title-2":"The fight for human rights and democracy",
+                        "work1":"What is the role of banks in the economy and society? What happens if they collapse? The foundations of modern banking research were laid by Ben Bernanke, Douglas Diamond and Philip Dybvig in the early 1980s. Diamond and Dybvig developed theoretical models that explain why banks exist, how their role in society makes them vulnerable to rumours about their impending collapse, and how society can lessen this vulnerability. These insights form the foundation of modern bank regulation.",
+
+                        "Philip Dybvig":"Philip Dybvig",
+                        "summary3":{
+                                    "name":"Philip H. Dybvig",
+                                    "placeofbirth":"Born: 22 May 1955, Gainesville, FL, USA",
+                                    "content":"Affiliation at the time of the award: Washington University, St. Louis, MO, USA.\n Prize motivation: “for research on banks and financial crises”"
+                                },
+                        "title-3":"Work",
+                        "work2":"What is the role of banks in the economy and society? What happens if they collapse?The foundations of modern banking research were laid by Ben Bernanke, Douglas Diamond and Philip Dybvig in the early 1980s. Dybvig and Diamond developed theoretical models that explain why banks exist, how their role in society makes them vulnerable to rumours about their impending collapse, and how society can lessen this vulnerability. These insights form the foundation of modern bank regulation."          
+                    }
+                  ]
+    }
+]
