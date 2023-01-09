@@ -1,0 +1,22 @@
+<body ng-controller="pageAlfred">
+    <section></section>
+    <section class="blogsContent" id="blogs">
+        <div class="container" ng-repeat="data in content | filter:search">
+            <div class="jumbotron" ng-repeat="data in data.alfred | filter:search">
+                <img ng-src="images/{{data.images}}" class="w-100 h-100"alt="">
+                <h1 class="testh1 heading">Why was the Nobel Prize established?</h1>
+                <h2>{{data.titleh2_1}}</h2>
+                 <p>{{data.contenth2_1}}</p>
+                <h2>{{data.titleh2_2}}</h2>
+                <ul ng-repeat="data in data.contenth2_2">
+                 <li>{{data.al_li}}</li>
+                </ul>
+                <h2>{{data.titleh2_3}}</h2>
+                 <p>{{data.contenth2_3}}</p>
+                <img src="images/{{data.image}}" alt="">
+                 <p>{{data.contenth2_4}}</p>
+                 <p>{{data.contenth2_5}}</p>
+            </div>
+        </div>
+    </section>
+</body>

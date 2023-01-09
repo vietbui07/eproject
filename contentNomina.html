@@ -1,0 +1,38 @@
+<body>
+<section></section>
+<section class="blogsContent" id="blogs">
+    <div class="container" ng-repeat="data in content | filter:search">
+        <div class="jumbotron" ng-repeat="data in data.nomination_prize | filter:search"><!---->
+            <h1 class="testh1 heading">{{data.titleh1}}</h1>
+                <p>{{data.metadescrip}}</p>
+            <h2>{{data.titleh2_1}}</h2>
+             <p>{{data.contenth2_1}}</p>
+            <h3>{{data.titleh3_1}}</h3>
+                <p>{{data.contenth3_1}}</p>
+            <ul ng-repeat="data in data.contenth3_p2">
+             <li>{{data.contentil}}</li>
+            </ul>
+            <h2>{{data.tilteh3_2}}</h2>
+             <p>{{data.contenth3_2}}</p>
+            <h3>{{data.titleh4_1}}</h3>
+             <p>{{data.contenth4_1}}</p>
+            <h2>{{data.titleh3_3}}</h2>
+                <p>{{data.contenth3_3}}</p>
+                <img ng-src="images/{{data.images}}" class="w-100 h-100" alt="">
+             <p>{{data.contenth3_3_p1}}</p>
+            <ul ng-repeat="data in data.contenth3_3_p1_ul">
+             <li>{{data.content_day}}</li>
+            </ul>
+            <h3>{{data.titleh4_2}}</h3>
+            <p>{{data.contenth4_2}}</p>
+            <p><span><b>search&nbsp</b></span>{{data.search}}</p>
+            <p><b>Read more about how the Nobel Prize laureates are nominated:</b></p>
+            <ul ng-repeat="data in data.read_more">
+                <li><a href="">{{data.read_ul}}</a></li>
+            </ul>
+            <br>
+            <hr>
+        </div>
+    </div>
+</section>
+</body>

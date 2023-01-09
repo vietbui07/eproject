@@ -1,0 +1,16 @@
+<body ng-controller="pageAbout">
+    <section></section>
+    <section class="blogsContent" id="blogs">
+        <div class="container" ng-repeat="data in content | filter:search">
+            <div class="jumbotron" ng-repeat="data in data.about | filter:search">
+                <h1 class="testh1 heading">About Us</h1>
+                <h2>{{data.title}}</h2>
+                    <p>{{data.content}}</p>
+                <h3>{{data.title_facts}}</h3>
+                <ul ng-repeat="data in data.content_li">
+                 <li>{{data.list}}</li>
+                </ul>
+            </div>
+        </div>
+    </section>
+</body>
